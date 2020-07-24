@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\jarodriguez\Documents\Visual Studio 2013\Projects\Buro\Compilado</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>06/07/2020 09:57:46</publishTime>
+    </File>
+    <File Include="bin/Buro.dll">
+      <publishTime>10/07/2020 15:52:29</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>06/07/2020 09:57:52</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>06/07/2020 09:57:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>06/07/2020 09:57:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>06/07/2020 09:57:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>06/07/2020 09:57:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>06/07/2020 09:57:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>06/07/2020 09:57:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>06/07/2020 09:57:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>06/07/2020 09:57:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>06/07/2020 09:57:59</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>06/07/2020 09:58:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>06/07/2020 09:58:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>06/07/2020 09:58:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>06/07/2020 09:58:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/07/2020 09:57:44</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/07/2020 09:57:50</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>06/07/2020 09:57:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>06/07/2020 09:57:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>06/07/2020 09:57:45</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>06/07/2020 09:57:43</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>06/07/2020 09:57:43</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>06/07/2020 09:57:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>06/07/2020 09:57:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>06/07/2020 09:57:44</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>06/07/2020 09:57:46</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>06/07/2020 09:57:34</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>06/07/2020 09:57:34</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>06/07/2020 09:57:17</publishTime>
+    </File>
+    <File Include="css/animation.css">
+      <publishTime>02/07/2020 10:55:24</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.css.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.min.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-grid.min.css.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.css.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.min.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap-reboot.min.css.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap.css.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/jquery/jquery.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/jquery/jquery.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/jquery/jquery.min.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/jquery/jquery.slim.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/jquery/jquery.slim.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/jquery/jquery.slim.min.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>08/07/2020 10:38:50</publishTime>
+    </File>
+    <File Include="css/main.css.map">
+      <publishTime>05/07/2020 19:04:52</publishTime>
+    </File>
+    <File Include="css/style2.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>06/07/2020 09:57:17</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>06/07/2020 09:57:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>06/07/2020 09:57:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>06/07/2020 09:57:34</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>06/07/2020 09:57:34</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/07/2020 09:57:17</publishTime>
+    </File>
+    <File Include="img/arrow-2.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/buro-icon.png">
+      <publishTime>05/07/2020 08:22:48</publishTime>
+    </File>
+    <File Include="img/buro.png">
+      <publishTime>05/07/2020 07:04:54</publishTime>
+    </File>
+    <File Include="img/dejar.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/destin.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/espera.gif">
+      <publishTime>08/07/2020 11:53:06</publishTime>
+    </File>
+    <File Include="img/favicon.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/llegada.png">
+      <publishTime>03/06/2020 09:44:52</publishTime>
+    </File>
+    <File Include="img/log-registro.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/logo-menu-2.png">
+      <publishTime>05/07/2020 18:45:24</publishTime>
+    </File>
+    <File Include="img/logo-menu.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/perfil-user.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/point-map-2.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/point-map.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/quest.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/remit.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/s-doc.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/s-mer.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/s-paq.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/v-aer.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/v-terr.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/volver.png">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="js/angular.min.js">
+      <publishTime>06/07/2020 10:42:50</publishTime>
+    </File>
+    <File Include="js/animation.js">
+      <publishTime>05/07/2020 16:48:14</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="js/jquery-3.3.1.slim.min.js">
+      <publishTime>06/07/2020 10:09:43</publishTime>
+    </File>
+    <File Include="js/jquery-3.5.1.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="js/jquery.mCustomScrollbar.concat.min.js">
+      <publishTime>06/07/2020 10:18:58</publishTime>
+    </File>
+    <File Include="js/ngStorage.min.js">
+      <publishTime>09/07/2020 16:14:07</publishTime>
+    </File>
+    <File Include="js/popper.min.js">
+      <publishTime>06/07/2020 10:13:49</publishTime>
+    </File>
+    <File Include="js/ss-Buro.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="lib/conf.json">
+      <publishTime>06/07/2020 12:53:05</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/07/2020 09:58:00</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>06/07/2020 09:57:34</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>06/07/2020 09:57:33</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>06/07/2020 09:57:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>06/07/2020 09:57:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>06/07/2020 09:57:35</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>06/07/2020 09:57:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>06/07/2020 09:57:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>06/07/2020 09:57:47</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>06/07/2020 09:57:47</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>06/07/2020 09:57:45</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>06/07/2020 09:57:47</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>06/07/2020 09:57:47</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>09/07/2020 16:14:07</publishTime>
+    </File>
+    <File Include="Views/Home/Confirmacion.cshtml">
+      <publishTime>10/07/2020 15:47:24</publishTime>
+    </File>
+    <File Include="Views/Home/Envio.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>10/07/2020 16:51:40</publishTime>
+    </File>
+    <File Include="Views/Home/Inicio.cshtml">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>06/07/2020 09:57:51</publishTime>
+    </File>
+    <File Include="Views/Shared/Lockout.cshtml">
+      <publishTime>06/07/2020 09:57:51</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>06/07/2020 09:57:51</publishTime>
+    </File>
+    <File Include="Views/Shared/_LoginPartial.cshtml">
+      <publishTime>06/07/2020 09:57:51</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>06/07/2020 09:57:17</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>06/07/2020 09:57:17</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/07/2020 20:22:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
